@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Adivina el numero</string>
+
+    <string name="numero"> Adivina numero del [1 - 100]</string>
+    <string name="btnAdivina">Adivinar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="resultado">Decison</string>
+</resources>
